@@ -212,8 +212,6 @@ document.getElementById('btnNumber').addEventListener('click', function () {
 
 
 document.getElementById('btnCloseStatus').addEventListener('click', function () {
-
-   // if (input type = minValue & input type = maxValue)
     $('#statusBar').collapse('hide');
 })
 
