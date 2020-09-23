@@ -1,4 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 .game-card {
     height: 100vh;
-    font-family: 'Open Sans', monospace;
+
+}
+.card-header {
+    background-color: rgb(216, 247, 181);
+    font-family: 'Kelly Slab', cursive;
+}
+
+.card-body {
+    font-family: 'Balsamiq Sans', cursive;
+    background-color: rgb(236, 228, 117)
+}
+
+.card-footer {
+    background-color: rgb(216, 247, 181);
 }
